@@ -7,7 +7,7 @@
   			<dependency><!-- D:\JavaTools\ssm\org\springframework\spring-context\4.3.5.RELEASE -->
   					<groupId>org.springframework</groupId>  
   					<artifactId>spring-context</artifactId>   
-  					<version>4.3.5.RELEASE</version>
+  					<version>5.2.22.RELEASE</version>
   			</dependency>   
   			 <dependency><!-- D:\JavaTools\ssm\org\springframework\spring-context\4.3.5.RELEASE -->
   					<groupId>org.springframework</groupId>  
